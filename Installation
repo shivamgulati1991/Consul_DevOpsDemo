@@ -1,0 +1,23 @@
+The installation binaries can be downloaded from:
+
+https://www.consul.io/downloads.html
+
+It contains packages for:
+
+1. Mac OS X
+2. Linux
+3. Solaris
+4. Free BSD
+5. Windows
+
+
+Consul tools can be downloaded from:
+
+https://www.consul.io/downloads_tools.html
+
+1. Envconsul - https://github.com/hashicorp/envconsul
+2. Consul Replicate - https://github.com/hashicorp/consul-replicate
+3. Consul Template - https://github.com/hashicorp/consul-template
+4. Consul Migrate - https://github.com/hashicorp/consul-migrate
+
+
