@@ -42,7 +42,7 @@ Bringing a new datacenter online is easy. Since servers operate in the WAN pool,
 
 This results in a very low coupling between datacenters, but because of failure detection, connection caching and multiplexing, cross-datacenter requests are relatively fast and reliable.
 
-![Architecture](https://github.ncsu.edu/achatur/DevOpsTechTalk/blob/master/Images/architecture.png)
+![Architecture](https://github.com/shivamgulati1991/Consul_DevOpsDemo/blob/master/Images/architecture.png)
 Figure 1: Consul architecture
 
 ### How to Install Consul
