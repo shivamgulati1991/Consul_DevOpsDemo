@@ -157,7 +157,7 @@ The internal gossip protocol used within Consul is in fact powered by the Serf l
 
 ### Talk
 
-[Presentation Link](https://github.ncsu.edu/achatur/DevOpsTechTalk/blob/master/Presentation_TechTalk.pdf)
+[Presentation Link](https://github.com/shivamgulati1991/Consul_DevOpsDemo/blob/master/Presentation_TechTalk.pdf)
 
 ### Resources
 
